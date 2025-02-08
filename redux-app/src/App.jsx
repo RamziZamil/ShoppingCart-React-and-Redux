@@ -11,7 +11,7 @@ function App() {
     <Router>
       <nav className="navbar">
         <Link to="/" className="nav-logo">
-          🛍️ ShopEasy
+          🛍️ Ramzi Shop
         </Link>
         <div className="nav-links">
           <Link to="/" className="nav-item">
